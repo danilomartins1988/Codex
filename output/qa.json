@@ -1,0 +1,39 @@
+{
+  "file": "001-visa-mastercard-short-1080x1920.mp4",
+  "sha256": "eddcd4de997f32702825179fd9e897a1c7a1f38435b9d6127ac67d81144bfaab",
+  "bytes": 7804673,
+  "durationSeconds": 51.818667,
+  "width": 1080,
+  "height": 1920,
+  "fps": "30/1",
+  "frames": 1553,
+  "videoCodec": "h264",
+  "audioCodec": "aac",
+  "checks": {
+    "video_h264": true,
+    "audio_aac": true,
+    "resolution": true,
+    "fps_30": true,
+    "duration_45_to_60": true,
+    "frame_count": true,
+    "audio_video_duration_difference_lt_0_1s": true,
+    "timeline_contiguous": true,
+    "captions_match_script": true,
+    "caption_intervals_valid": true,
+    "all_12_scenes_present": true,
+    "one_mp4_only": true,
+    "full_decode_no_errors": true,
+    "no_full_black_frames": true,
+    "no_unexpected_long_silence": true,
+    "audio_present_and_not_clipped": true
+  },
+  "technicalPassed": true,
+  "editorialStatus": "blocked_primary_source_access",
+  "captionGranularity": "Sentence-level, tied to individually synthesized speech segments; no word-level forced alignment.",
+  "manualReview": {
+    "contactSheet": "12 representative frames extracted from the encoded MP4 and inspected; no missing diagrams or clipped captions in these samples.",
+    "audio": "Neural en-US af_heart voice generated. Signal tested; naturalness and pronunciation require human listening review.",
+    "mobile": "46px sentence captions, 84px headlines. Safe region left 90/right 180, top 140/bottom 350 for essential captions; YouTube UI varies."
+  },
+  "externalDelivery": "See DELIVERY.md for separately verified remote retrieval and HTTP download status."
+}
