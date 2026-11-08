@@ -1,0 +1,30 @@
+{
+  "name": "the-hidden-economics",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Config-driven animated economics Shorts production pipeline",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "studio": "remotion studio src/index.ts",
+    "prepare:episode": ".venv/bin/python scripts/prepare.py",
+    "render": "tsx scripts/render.ts",
+    "qa": ".venv/bin/python scripts/qa.py",
+    "produce": "npm run prepare:episode && npm run typecheck && npm run render && npm run qa",
+    "editorial:check": ".venv/bin/python scripts/editorial-check.py"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.373",
+    "@remotion/bundler": "4.0.373",
+    "@remotion/renderer": "4.0.373",
+    "remotion": "4.0.373",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "typescript": "5.8.3",
+    "tsx": "4.19.4",
+    "@types/react": "19.1.2",
+    "@types/node": "22.15.3"
+  },
+  "type": "module"
+}

@@ -1,0 +1,7 @@
+node_modules/
+.venv/
+.cache/
+output/*.log
+output/frames/
+public/audio/chunks/
+__pycache__/

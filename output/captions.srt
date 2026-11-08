@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:02,852
+Visa isn't your lender. So how does it make money?
+
+2
+00:00:03,500 --> 00:00:07,127
+That logo on your credit card usually marks a payment network.
+
+3
+00:00:07,467 --> 00:00:11,264
+Your issuing bank generally lends the money and takes the lending risk.
+
+4
+00:00:11,600 --> 00:00:15,056
+When you tap, the merchant's payment provider connects to that network.
+
+5
+00:00:15,400 --> 00:00:19,944
+Visa or Mastercard routes the authorization request to your issuing bank.
+
+6
+00:00:20,300 --> 00:00:24,631
+The bank approves or declines. The network helps coordinate the transaction.
+
+7
+00:00:24,967 --> 00:00:27,548
+Think of a toll road, rather than a car lender.
+
+8
+00:00:28,367 --> 00:00:32,975
+Networks earn fees for services, including processing and cross-border payments.
+
+9
+00:00:33,333 --> 00:00:36,448
+But the merchant's total fee doesn't all go to the network.
+
+10
+00:00:36,800 --> 00:00:41,643
+Interchange generally goes to issuers. Acquirers and processors earn their share.
+
+11
+00:00:42,000 --> 00:00:46,587
+Networks still face risks, including settlement exposure. They're not risk-free.
+
+12
+00:00:46,933 --> 00:00:51,029
+The hidden business? Connecting the payment, rather than funding your purchase.

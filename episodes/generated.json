@@ -1,0 +1,258 @@
+{
+  "id": "001-visa-mastercard",
+  "filename": "001-visa-mastercard-short-1080x1920.mp4",
+  "channel": "The Hidden Economics",
+  "tagline": "The Stories Behind Money, Power and the World.",
+  "voice": "af_heart",
+  "speed": 1.03,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "scenes": [
+    {
+      "kind": "hook",
+      "eyebrow": "THE CREDIT CARD PARADOX",
+      "title": [
+        "Visa isn't",
+        "your lender."
+      ],
+      "text": "Visa isn't your lender. So how does it make money?",
+      "claim": "C1",
+      "from": 0,
+      "duration": 102,
+      "audioStart": 0.1,
+      "audioEnd": 2.852
+    },
+    {
+      "kind": "card",
+      "eyebrow": "01 / THE NAME ON THE CARD",
+      "title": [
+        "A logo isn't",
+        "a loan."
+      ],
+      "text": "That logo on your credit card usually marks a payment network.",
+      "claim": "C1",
+      "from": 102,
+      "duration": 119,
+      "audioStart": 3.5,
+      "audioEnd": 7.126666666666667
+    },
+    {
+      "kind": "bank",
+      "eyebrow": "02 / WHO LENDS?",
+      "title": [
+        "The bank",
+        "backs the credit."
+      ],
+      "text": "Your issuing bank generally lends the money and takes the lending risk.",
+      "claim": "C2",
+      "from": 221,
+      "duration": 124,
+      "audioStart": 7.466666666666666,
+      "audioEnd": 11.264
+    },
+    {
+      "kind": "merchant",
+      "eyebrow": "03 / AT CHECKOUT",
+      "title": [
+        "One tap.",
+        "Several players."
+      ],
+      "text": "When you tap, the merchant's payment provider connects to that network.",
+      "claim": "C3",
+      "from": 345,
+      "duration": 114,
+      "audioStart": 11.6,
+      "audioEnd": 15.056
+    },
+    {
+      "kind": "network",
+      "eyebrow": "04 / THE CONNECTION",
+      "title": [
+        "A message",
+        "crosses the network."
+      ],
+      "text": "Visa or Mastercard routes the authorization request to your issuing bank.",
+      "claim": "C3",
+      "from": 459,
+      "duration": 147,
+      "audioStart": 15.4,
+      "audioEnd": 19.944
+    },
+    {
+      "kind": "approval",
+      "eyebrow": "05 / THE DECISION",
+      "title": [
+        "The bank",
+        "says yes or no."
+      ],
+      "text": "The bank approves or declines. The network helps coordinate the transaction.",
+      "claim": "C3",
+      "from": 606,
+      "duration": 140,
+      "audioStart": 20.3,
+      "audioEnd": 24.630666666666666
+    },
+    {
+      "kind": "road",
+      "eyebrow": "06 / THE BUSINESS MODEL",
+      "title": [
+        "Think roads,",
+        "not car loans."
+      ],
+      "text": "Think of a toll road, rather than a car lender.",
+      "claim": "C4",
+      "from": 746,
+      "duration": 102,
+      "audioStart": 24.96666666666667,
+      "audioEnd": 27.548000000000002
+    },
+    {
+      "kind": "fees",
+      "eyebrow": "07 / HOW NETWORKS EARN",
+      "title": [
+        "Connections.",
+        "Processing. Fees."
+      ],
+      "text": "Networks earn fees for services, including processing and cross-border payments.",
+      "claim": "C4",
+      "from": 848,
+      "duration": 149,
+      "audioStart": 28.366666666666667,
+      "audioEnd": 32.974666666666664
+    },
+    {
+      "kind": "split",
+      "eyebrow": "08 / FOLLOW THE FEE",
+      "title": [
+        "The merchant fee",
+        "gets shared."
+      ],
+      "text": "But the merchant's total fee doesn't all go to the network.",
+      "claim": "C5",
+      "from": 997,
+      "duration": 104,
+      "audioStart": 33.333333333333336,
+      "audioEnd": 36.448
+    },
+    {
+      "kind": "issuer",
+      "eyebrow": "09 / OTHER PIECES OF THE BILL",
+      "title": [
+        "Different players.",
+        "Different income."
+      ],
+      "text": "Interchange generally goes to issuers. Acquirers and processors earn their share.",
+      "claim": "C5",
+      "from": 1101,
+      "duration": 156,
+      "audioStart": 36.800000000000004,
+      "audioEnd": 41.64266666666667
+    },
+    {
+      "kind": "risk",
+      "eyebrow": "10 / AN IMPORTANT DISTINCTION",
+      "title": [
+        "Less lending risk.",
+        "Not zero risk."
+      ],
+      "text": "Networks still face risks, including settlement exposure. They're not risk-free.",
+      "claim": "C6",
+      "from": 1257,
+      "duration": 148,
+      "audioStart": 42.0,
+      "audioEnd": 46.586666666666666
+    },
+    {
+      "kind": "finale",
+      "eyebrow": "THE HIDDEN ECONOMICS",
+      "title": [
+        "Own the rails.",
+        "Not the loan."
+      ],
+      "text": "The hidden business? Connecting the payment, rather than funding your purchase.",
+      "claim": "C1",
+      "from": 1405,
+      "duration": 133,
+      "audioStart": 46.93333333333334,
+      "audioEnd": 51.02933333333334
+    }
+  ],
+  "publishing": {
+    "title": "Visa Isn't Your Lender. So Who Gets Paid?",
+    "description": "The logo on your credit card isn't usually the company lending you money. Here's how issuing banks, merchant acquirers, and the Visa and Mastercard payment networks fit together\u2014and why the merchant's fee isn't all network revenue. Simplified US four-party card model; actual arrangements vary. Narration is AI-generated with a local Kokoro voice. The Hidden Economics: The Stories Behind Money, Power and the World.",
+    "hashtags": [
+      "#Economics",
+      "#Visa",
+      "#Mastercard",
+      "#BusinessExplained",
+      "#Shorts"
+    ],
+    "pinnedComment": "Before watching, who did you think received most of the fee when you paid by card?",
+    "relatedLongForm": "Follow one purchase from authorization through clearing and settlement, then explore interchange, network competition, regulation, and cross-border economics. Future concept only; no additional episode produced."
+  },
+  "durationInFrames": 1553,
+  "captions": [
+    {
+      "start": 0.1,
+      "end": 2.852,
+      "text": "Visa isn't your lender. So how does it make money?"
+    },
+    {
+      "start": 3.5,
+      "end": 7.126666666666667,
+      "text": "That logo on your credit card usually marks a payment network."
+    },
+    {
+      "start": 7.466666666666666,
+      "end": 11.264,
+      "text": "Your issuing bank generally lends the money and takes the lending risk."
+    },
+    {
+      "start": 11.6,
+      "end": 15.056,
+      "text": "When you tap, the merchant's payment provider connects to that network."
+    },
+    {
+      "start": 15.4,
+      "end": 19.944,
+      "text": "Visa or Mastercard routes the authorization request to your issuing bank."
+    },
+    {
+      "start": 20.3,
+      "end": 24.630666666666666,
+      "text": "The bank approves or declines. The network helps coordinate the transaction."
+    },
+    {
+      "start": 24.96666666666667,
+      "end": 27.548000000000002,
+      "text": "Think of a toll road, rather than a car lender."
+    },
+    {
+      "start": 28.366666666666667,
+      "end": 32.974666666666664,
+      "text": "Networks earn fees for services, including processing and cross-border payments."
+    },
+    {
+      "start": 33.333333333333336,
+      "end": 36.448,
+      "text": "But the merchant's total fee doesn't all go to the network."
+    },
+    {
+      "start": 36.800000000000004,
+      "end": 41.64266666666667,
+      "text": "Interchange generally goes to issuers. Acquirers and processors earn their share."
+    },
+    {
+      "start": 42.0,
+      "end": 46.586666666666666,
+      "text": "Networks still face risks, including settlement exposure. They're not risk-free."
+    },
+    {
+      "start": 46.93333333333334,
+      "end": 51.02933333333334,
+      "text": "The hidden business? Connecting the payment, rather than funding your purchase."
+    }
+  ],
+  "audio": "audio/narration.wav"
+}

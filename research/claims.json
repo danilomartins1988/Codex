@@ -1,0 +1,19 @@
+{
+  "status":"blocked_primary_source_access",
+  "checkedAt":"2026-11-08",
+  "scope":"Simplified US four-party credit card model, not all payment products or routing arrangements.",
+  "sources":[
+    {"id":"V10K","publisher":"Visa Inc.","document":"Annual Report / Form 10-K, Business and Risk Factors","url":"https://annualreport.visa.com/financials/default.aspx","access":"blocked: proxy CONNECT 403; document contents not retrieved"},
+    {"id":"VNET","publisher":"Visa Inc.","document":"VisaNet overview","url":"https://corporate.visa.com/en/about-visa/visa-net.html","access":"blocked: proxy CONNECT 403; document contents not retrieved"},
+    {"id":"MFAQ","publisher":"Mastercard","document":"Consumer support FAQ","url":"https://www.mastercard.com/us/en/personal/get-support/faq.html","access":"blocked: proxy CONNECT 403; document contents not retrieved"},
+    {"id":"M10K","publisher":"Mastercard Incorporated","document":"Annual Reports / Form 10-K, Business, Revenue Recognition, and Settlement and Other Risk Management","url":"https://investor.mastercard.com/financials-and-sec-filings/annual-reports-and-proxy/default.aspx","access":"reference for follow-up; not retrieved"}
+  ],
+  "claims":[
+    {"id":"C1","claim":"Visa and Mastercard primarily operate payment networks; the logo generally identifies the network rather than the lender.","sources":["V10K","M10K","MFAQ"],"verifiedAgainstRetrievedDocument":false},
+    {"id":"C2","claim":"Issuing banks generally issue credit cards, extend credit and bear associated lending risk.","sources":["V10K","M10K","MFAQ"],"verifiedAgainstRetrievedDocument":false},
+    {"id":"C3","claim":"In the simplified four-party model, merchant acquirers/processors connect the merchant to a network; requests reach the issuer and responses return. Issuers generally decide authorization.","sources":["VNET","V10K","M10K"],"verifiedAgainstRetrievedDocument":false},
+    {"id":"C4","claim":"Network revenue includes processing and cross-border services. The toll-road comparison is an analogy, not a statement that all fees are per swipe or identical across networks.","sources":["V10K","M10K"],"verifiedAgainstRetrievedDocument":false},
+    {"id":"C5","claim":"Total merchant charges are not entirely network revenue. Interchange is generally paid by acquirers to issuers; merchant providers also earn fees.","sources":["V10K","M10K"],"verifiedAgainstRetrievedDocument":false},
+    {"id":"C6","claim":"Payment networks can bear settlement/counterparty exposures; avoiding consumer lending does not mean no credit exposure or no risk.","sources":["V10K","M10K"],"verifiedAgainstRetrievedDocument":false}
+  ]
+}
